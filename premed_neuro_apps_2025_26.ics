@@ -3,12 +3,12 @@ PRODID:-//Premed Neuro Apps//chloejoy//
 VERSION:2.0
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
-X-WR-CALNAME:Premed Neuro Apps 2025–26 (Consolidated)
+X-WR-CALNAME:Premed Neuro Apps 2025–26 (All Items)
 X-WR-TIMEZONE:America/New_York
 BEGIN:VEVENT
-UID:Goldwater Scholarship application opens-20250902090000@chloejoy-apps
-DTSTAMP:20250910T181951Z
-SUMMARY:Goldwater Scholarship application opens
+UID:Goldwater Scholarship – application opens-20250902090000@apps
+DTSTAMP:20250910T182817Z
+SUMMARY:Goldwater Scholarship – application opens
 DTSTART;TZID=America/New_York:20250902T090000
 DTEND;TZID=America/New_York:20250902T100000
 DESCRIPTION:Goldwater app opens. Campus nomination required\; set Duke
@@ -16,117 +16,116 @@ DESCRIPTION:Goldwater app opens. Campus nomination required\; set Duke
  -dates/
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:Reminder: Goldwater Scholarship application opens
+DESCRIPTION:Reminder: Goldwater Scholarship – application opens
 TRIGGER:-P14D
 END:VALARM
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:Reminder: Goldwater Scholarship application opens
+DESCRIPTION:Reminder: Goldwater Scholarship – application opens
 TRIGGER:-P3D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:Goldwater nomination deadline (national)-20260130180000@chloejoy-apps
-DTSTAMP:20250910T181951Z
-SUMMARY:Goldwater nomination deadline (national)
+UID:Goldwater Scholarship – national nomination due-20260130180000@apps
+DTSTAMP:20250910T182817Z
+SUMMARY:Goldwater Scholarship – national nomination due
 DTSTART;TZID=America/New_York:20260130T180000
 DTEND;TZID=America/New_York:20260130T190000
 DESCRIPTION:Institution nominations due 5pm CT (6pm ET). Confirm Duke 
  internal deadline.\nLink: https://goldwaterscholarship.gov/
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:Reminder: Goldwater nomination deadline (national)
+DESCRIPTION:Reminder: Goldwater Scholarship – national nomination due
 TRIGGER:-P14D
 END:VALARM
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:Reminder: Goldwater nomination deadline (national)
+DESCRIPTION:Reminder: Goldwater Scholarship – national nomination due
 TRIGGER:-P3D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:UCSF SRTP applications open-20251101030100@chloejoy-apps
-DTSTAMP:20250910T181951Z
-SUMMARY:UCSF SRTP applications open
+UID:UCSF SRTP – applications open-20251101030100@apps
+DTSTAMP:20250910T182817Z
+SUMMARY:UCSF SRTP – applications open
 DTSTART;TZID=America/New_York:20251101T030100
 DTEND;TZID=America/New_York:20251101T040100
-DESCRIPTION:Applications open (12:01 a.m. PST).\nLink: https://graduat
- e.ucsf.edu/academics/srtp
+DESCRIPTION:Opens 12:01 a.m. PST.\nLink: https://graduate.ucsf.edu/aca
+ demics/srtp
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:Reminder: UCSF SRTP applications open
+DESCRIPTION:Reminder: UCSF SRTP – applications open
 TRIGGER:-P14D
 END:VALARM
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:Reminder: UCSF SRTP applications open
+DESCRIPTION:Reminder: UCSF SRTP – applications open
 TRIGGER:-P3D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:UCSF SRTP application deadline-20260202235800@chloejoy-apps
-DTSTAMP:20250910T181951Z
-SUMMARY:UCSF SRTP application deadline
+UID:UCSF SRTP – application deadline-20260202235800@apps
+DTSTAMP:20250910T182817Z
+SUMMARY:UCSF SRTP – application deadline
 DTSTART;TZID=America/New_York:20260202T235800
 DTEND;TZID=America/New_York:20260203T005800
-DESCRIPTION:Deadline 11:58 p.m. PST (2:58 a.m. ET on 2/3).\nLink: http
- s://graduate.ucsf.edu/academics/srtp/srtp-faq
+DESCRIPTION:Due 11:58 p.m. PST (2:58 a.m. ET on 2/3).\nLink: https://g
+ raduate.ucsf.edu/academics/srtp/srtp-faq
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:Reminder: UCSF SRTP application deadline
+DESCRIPTION:Reminder: UCSF SRTP – application deadline
 TRIGGER:-P14D
 END:VALARM
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:Reminder: UCSF SRTP application deadline
+DESCRIPTION:Reminder: UCSF SRTP – application deadline
 TRIGGER:-P3D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:Stanford SSRP–Amgen application deadline (expected)-20260201235900@chloejoy-apps
-DTSTAMP:20250910T181951Z
-SUMMARY:Stanford SSRP–Amgen application deadline (expected)
+UID:Stanford SSRP–Amgen – application deadline (expected)-20260201235900@apps
+DTSTAMP:20250910T182817Z
+SUMMARY:Stanford SSRP–Amgen – application deadline (expected)
 DTSTART;TZID=America/New_York:20260201T235900
 DTEND;TZID=America/New_York:20260202T005900
 DESCRIPTION:Based on prior cycle\; confirm 2026 when posted.\nLink: ht
  tps://biosciences.stanford.edu/pathways/ssrp-amgen-scholars-program/
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:Reminder: Stanford SSRP–Amgen application deadline (expect
- ed)
+DESCRIPTION:Reminder: Stanford SSRP–Amgen – application deadline (expe
+ cted)
 TRIGGER:-P14D
 END:VALARM
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:Reminder: Stanford SSRP–Amgen application deadline (expect
- ed)
+DESCRIPTION:Reminder: Stanford SSRP–Amgen – application deadline (expe
+ cted)
 TRIGGER:-P3D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:Broad BSRP application deadline (anticipated)-20260110180000@chloejoy-apps
-DTSTAMP:20250910T181951Z
-SUMMARY:Broad BSRP application deadline (anticipated)
+UID:Broad BSRP – application deadline (anticipated)-20260110180000@apps
+DTSTAMP:20250910T182817Z
+SUMMARY:Broad BSRP – application deadline (anticipated)
 DTSTART;TZID=America/New_York:20260110T180000
 DTEND;TZID=America/New_York:20260110T190000
-DESCRIPTION:Anticipated based on prior cycles\; confirm on Broad site.
- \nLink: https://www.broadinstitute.org/bsrp/broad-summer-research-pro
- gram-bsrp
+DESCRIPTION:Anticipated based on prior cycles\; confirm.\nLink: https:
+ //www.broadinstitute.org/bsrp/broad-summer-research-program-bsrp
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:Reminder: Broad BSRP application deadline (anticipated)
+DESCRIPTION:Reminder: Broad BSRP – application deadline (anticipated)
 TRIGGER:-P14D
 END:VALARM
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:Reminder: Broad BSRP application deadline (anticipated)
+DESCRIPTION:Reminder: Broad BSRP – application deadline (anticipated)
 TRIGGER:-P3D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:HHMI Janelia J‑SURP application deadline (expected)-20260114150000@chloejoy-apps
-DTSTAMP:20250910T181951Z
-SUMMARY:HHMI Janelia J‑SURP application deadline (expected)
+UID:HHMI Janelia J‑SURP – application deadline (expected)-20260114150000@apps
+DTSTAMP:20250910T182817Z
+SUMMARY:HHMI Janelia J‑SURP – application deadline (expected)
 DTSTART;TZID=America/New_York:20260114T150000
 DTEND;TZID=America/New_York:20260114T160000
 DESCRIPTION:Expected based on 2025\; confirm when posted.\nLink: https
@@ -134,59 +133,59 @@ DESCRIPTION:Expected based on 2025\; confirm when posted.\nLink: https
  ndergraduate-research-program/application-details
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:Reminder: HHMI Janelia J‑SURP application deadline (expect
- ed)
+DESCRIPTION:Reminder: HHMI Janelia J‑SURP – application deadline (expe
+ cted)
 TRIGGER:-P14D
 END:VALARM
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:Reminder: HHMI Janelia J‑SURP application deadline (expect
- ed)
+DESCRIPTION:Reminder: HHMI Janelia J‑SURP – application deadline (expe
+ cted)
 TRIGGER:-P3D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:CSHL URP applications open-20250915090000@chloejoy-apps
-DTSTAMP:20250910T181951Z
-SUMMARY:CSHL URP applications open
+UID:CSHL URP – applications open-20250915090000@apps
+DTSTAMP:20250910T182817Z
+SUMMARY:CSHL URP – applications open
 DTSTART;TZID=America/New_York:20250915T090000
 DTEND;TZID=America/New_York:20250915T100000
 DESCRIPTION:Cold Spring Harbor URP opens Sept.\nLink: https://www.cshl
  .edu/education/undergraduate-research-program/
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:Reminder: CSHL URP applications open
+DESCRIPTION:Reminder: CSHL URP – applications open
 TRIGGER:-P14D
 END:VALARM
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:Reminder: CSHL URP applications open
+DESCRIPTION:Reminder: CSHL URP – applications open
 TRIGGER:-P3D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:CSHL URP application deadline (anticipated)-20260115180000@chloejoy-apps
-DTSTAMP:20250910T181951Z
-SUMMARY:CSHL URP application deadline (anticipated)
+UID:CSHL URP – application deadline (anticipated)-20260115180000@apps
+DTSTAMP:20250910T182817Z
+SUMMARY:CSHL URP – application deadline (anticipated)
 DTSTART;TZID=America/New_York:20260115T180000
 DTEND;TZID=America/New_York:20260115T190000
 DESCRIPTION:Typical mid‑January deadline\; confirm.\nLink: https://www
  .cshl.edu/education/undergraduate-research-program/
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:Reminder: CSHL URP application deadline (anticipated)
+DESCRIPTION:Reminder: CSHL URP – application deadline (anticipated)
 TRIGGER:-P14D
 END:VALARM
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:Reminder: CSHL URP application deadline (anticipated)
+DESCRIPTION:Reminder: CSHL URP – application deadline (anticipated)
 TRIGGER:-P3D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:Mayo Clinic SURF application deadline-20260202170000@chloejoy-apps
-DTSTAMP:20250910T181951Z
-SUMMARY:Mayo Clinic SURF application deadline
+UID:Mayo Clinic SURF – application deadline-20260202170000@apps
+DTSTAMP:20250910T182817Z
+SUMMARY:Mayo Clinic SURF – application deadline
 DTSTART;TZID=America/New_York:20260202T170000
 DTEND;TZID=America/New_York:20260202T180000
 DESCRIPTION:Window Nov 1\, 2025 – Feb 2\, 2026. Program runs May 26 – 
@@ -195,59 +194,60 @@ DESCRIPTION:Window Nov 1\, 2025 – Feb 2\, 2026. Program runs May 26 –
  ation-process/
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:Reminder: Mayo Clinic SURF application deadline
+DESCRIPTION:Reminder: Mayo Clinic SURF – application deadline
 TRIGGER:-P14D
 END:VALARM
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:Reminder: Mayo Clinic SURF application deadline
+DESCRIPTION:Reminder: Mayo Clinic SURF – application deadline
 TRIGGER:-P3D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:DOE SULI Summer 2026 application deadline-20260107170000@chloejoy-apps
-DTSTAMP:20250910T181951Z
-SUMMARY:DOE SULI Summer 2026 application deadline
+UID:DOE SULI (Summer 2026) – application deadline-20260107170000@apps
+DTSTAMP:20250910T182817Z
+SUMMARY:DOE SULI (Summer 2026) – application deadline
 DTSTART;TZID=America/New_York:20260107T170000
 DTEND;TZID=America/New_York:20260107T180000
 DESCRIPTION:Due 5:00 p.m. ET.\nLink: https://science.osti.gov/wdts/sul
  i/Key-Dates
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:Reminder: DOE SULI Summer 2026 application deadline
+DESCRIPTION:Reminder: DOE SULI (Summer 2026) – application deadline
 TRIGGER:-P14D
 END:VALARM
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:Reminder: DOE SULI Summer 2026 application deadline
+DESCRIPTION:Reminder: DOE SULI (Summer 2026) – application deadline
 TRIGGER:-P3D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:Children’s Brain Tumor Project SURF window closes-20260215170000@chloejoy-apps
-DTSTAMP:20250910T181951Z
-SUMMARY:Children’s Brain Tumor Project SURF window closes
+UID:Children’s Brain Tumor Project – SURF window closes-20260215170000@apps
+DTSTAMP:20250910T182817Z
+SUMMARY:Children’s Brain Tumor Project – SURF window closes
 DTSTART;TZID=America/New_York:20260215T170000
 DTEND;TZID=America/New_York:20260215T180000
 DESCRIPTION:Applications accepted Nov 1 – Feb 15.\nLink: https://www.c
  hildrensbraintumorproject.org/summerinternship/
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:Reminder: Children’s Brain Tumor Project SURF window close
- s
+DESCRIPTION:Reminder: Children’s Brain Tumor Project – SURF window clo
+ ses
 TRIGGER:-P14D
 END:VALARM
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:Reminder: Children’s Brain Tumor Project SURF window close
- s
+DESCRIPTION:Reminder: Children’s Brain Tumor Project – SURF window clo
+ ses
 TRIGGER:-P3D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:UW Neuroscience Summer Student Program (apply by)-20251214235900@chloejoy-apps
-DTSTAMP:20250910T181951Z
-SUMMARY:UW Neuroscience Summer Student Program (apply by)
+UID:UW Neurosurgery – Neuroscience Summer Student Program (apply by)-20251214235900@apps
+DTSTAMP:20250910T182817Z
+SUMMARY:UW Neurosurgery – Neuroscience Summer Student Program (apply b
+ y)
 DTSTART;TZID=America/New_York:20251214T235900
 DTEND;TZID=America/New_York:20251215T005900
 DESCRIPTION:Apply Oct 31 – Dec 14\, 2025 for Summer 2026 cohort.\nLink
@@ -255,21 +255,21 @@ DESCRIPTION:Apply Oct 31 – Dec 14\, 2025 for Summer 2026 cohort.\nLink
  -how-to-apply
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:Reminder: UW Neuroscience Summer Student Program (apply by
- )
+DESCRIPTION:Reminder: UW Neurosurgery – Neuroscience Summer Student Pr
+ ogram (apply by)
 TRIGGER:-P14D
 END:VALARM
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:Reminder: UW Neuroscience Summer Student Program (apply by
- )
+DESCRIPTION:Reminder: UW Neurosurgery – Neuroscience Summer Student Pr
+ ogram (apply by)
 TRIGGER:-P3D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:MGH Youth Neurology internship deadline (expected)-20260131235900@chloejoy-apps
-DTSTAMP:20250910T181951Z
-SUMMARY:MGH Youth Neurology internship deadline (expected)
+UID:MGH Youth Neurology – undergrad internship (expected deadline)-20260131235900@apps
+DTSTAMP:20250910T182817Z
+SUMMARY:MGH Youth Neurology – undergrad internship (expected deadline)
 DTSTART;TZID=America/New_York:20260131T235900
 DTEND;TZID=America/New_York:20260201T005900
 DESCRIPTION:Expected based on 2025 cycle\; confirm when posted.\nLink:
@@ -277,81 +277,82 @@ DESCRIPTION:Expected based on 2025 cycle\; confirm when posted.\nLink:
  esearch-and-education
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:Reminder: MGH Youth Neurology internship deadline (expecte
- d)
+DESCRIPTION:Reminder: MGH Youth Neurology – undergrad internship (expe
+ cted deadline)
 TRIGGER:-P14D
 END:VALARM
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:Reminder: MGH Youth Neurology internship deadline (expecte
- d)
+DESCRIPTION:Reminder: MGH Youth Neurology – undergrad internship (expe
+ cted deadline)
 TRIGGER:-P3D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:NYU Pediatric Neurosurgery Observership deadline (expected)-20260301170000@chloejoy-apps
-DTSTAMP:20250910T181951Z
-SUMMARY:NYU Pediatric Neurosurgery Observership deadline (expected)
+UID:NYU Pediatric Neurosurgery – Observership deadline (expected)-20260301170000@apps
+DTSTAMP:20250910T182817Z
+SUMMARY:NYU Pediatric Neurosurgery – Observership deadline (expected)
 DTSTART;TZID=America/New_York:20260301T170000
 DTEND;TZID=America/New_York:20260301T180000
-DESCRIPTION:Based on prior cycle\; confirm on NYU site.\nLink: https:/
- /med.nyu.edu/departments-institutes/neurosurgery/education/summer-obs
- ervership-undergraduates
+DESCRIPTION:Based on prior cycle\; confirm.\nLink: https://med.nyu.edu
+ /departments-institutes/neurosurgery/education/summer-observership-un
+ dergraduates
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:Reminder: NYU Pediatric Neurosurgery Observership deadline
-  (expected)
+DESCRIPTION:Reminder: NYU Pediatric Neurosurgery – Observership deadli
+ ne (expected)
 TRIGGER:-P14D
 END:VALARM
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:Reminder: NYU Pediatric Neurosurgery Observership deadline
-  (expected)
+DESCRIPTION:Reminder: NYU Pediatric Neurosurgery – Observership deadli
+ ne (expected)
 TRIGGER:-P3D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:NIH SIP application opens (est.)-20251115090000@chloejoy-apps
-DTSTAMP:20250910T181951Z
-SUMMARY:NIH SIP application opens (est.)
+UID:NIH SIP – application opens (est.)-20251115090000@apps
+DTSTAMP:20250910T182817Z
+SUMMARY:NIH SIP – application opens (est.)
 DTSTART;TZID=America/New_York:20251115T090000
 DTEND;TZID=America/New_York:20251115T100000
-DESCRIPTION:NIH SIP typically opens mid‑Nov\; rolling selection.\nLink
- : https://www.training.nih.gov/research-training/pb/sip/
+DESCRIPTION:Typically opens mid‑Nov\; rolling selection.\nLink: https:
+ //www.training.nih.gov/research-training/pb/sip/
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:Reminder: NIH SIP application opens (est.)
+DESCRIPTION:Reminder: NIH SIP – application opens (est.)
 TRIGGER:-P14D
 END:VALARM
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:Reminder: NIH SIP application opens (est.)
+DESCRIPTION:Reminder: NIH SIP – application opens (est.)
 TRIGGER:-P3D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:NIH SIP application deadline (est.)-20260216180000@chloejoy-apps
-DTSTAMP:20250910T181951Z
-SUMMARY:NIH SIP application deadline (est.)
+UID:NIH SIP – application deadline (est.)-20260216180000@apps
+DTSTAMP:20250910T182817Z
+SUMMARY:NIH SIP – application deadline (est.)
 DTSTART;TZID=America/New_York:20260216T180000
 DTEND;TZID=America/New_York:20260216T190000
 DESCRIPTION:Typical close mid‑Feb\; apply early.\nLink: https://www.ca
  ncer.gov/grants-training/training/at-nci/sip
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:Reminder: NIH SIP application deadline (est.)
+DESCRIPTION:Reminder: NIH SIP – application deadline (est.)
 TRIGGER:-P14D
 END:VALARM
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:Reminder: NIH SIP application deadline (est.)
+DESCRIPTION:Reminder: NIH SIP – application deadline (est.)
 TRIGGER:-P3D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:Astronaut Scholarship – confirm campus nomination deadline-20260115090000@chloejoy-apps
-DTSTAMP:20250910T181951Z
-SUMMARY:Astronaut Scholarship – confirm campus nomination deadline
+UID:Astronaut Scholarship – confirm Duke campus nomination deadline-20260115090000@apps
+DTSTAMP:20250910T182817Z
+SUMMARY:Astronaut Scholarship – confirm Duke campus nomination deadlin
+ e
 DTSTART;TZID=America/New_York:20260115T090000
 DTEND;TZID=America/New_York:20260115T100000
 DESCRIPTION:Most campuses set Jan–Mar internal deadlines\; check Duke 
@@ -359,20 +360,20 @@ DESCRIPTION:Most campuses set Jan–Mar internal deadlines\; check Duke
  ronaut-scholarship/
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:Reminder: Astronaut Scholarship – confirm campus nominatio
- n deadline
+DESCRIPTION:Reminder: Astronaut Scholarship – confirm Duke campus nomi
+ nation deadline
 TRIGGER:-P14D
 END:VALARM
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:Reminder: Astronaut Scholarship – confirm campus nominatio
- n deadline
+DESCRIPTION:Reminder: Astronaut Scholarship – confirm Duke campus nomi
+ nation deadline
 TRIGGER:-P3D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:Goldwater – confirm Duke campus deadline (placeholder)-20251020090000@chloejoy-apps
-DTSTAMP:20250910T181951Z
+UID:Goldwater – confirm Duke campus deadline (placeholder)-20251020090000@apps
+DTSTAMP:20250910T182817Z
 SUMMARY:Goldwater – confirm Duke campus deadline (placeholder)
 DTSTART;TZID=America/New_York:20251020T090000
 DTEND;TZID=America/New_York:20251020T100000
@@ -392,8 +393,8 @@ TRIGGER:-P3D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:Goldwater – personal statement draft #1 due (you)-20251027180000@chloejoy-apps
-DTSTAMP:20250910T181951Z
+UID:Goldwater – personal statement draft #1 due (you)-20251027180000@apps
+DTSTAMP:20250910T182817Z
 SUMMARY:Goldwater – personal statement draft #1 due (you)
 DTSTART;TZID=America/New_York:20251027T180000
 DTEND;TZID=America/New_York:20251027T190000
@@ -412,8 +413,8 @@ TRIGGER:-P3D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:Goldwater – referee requests sent-20251028090000@chloejoy-apps
-DTSTAMP:20250910T181951Z
+UID:Goldwater – referee requests sent-20251028090000@apps
+DTSTAMP:20250910T182817Z
 SUMMARY:Goldwater – referee requests sent
 DTSTART;TZID=America/New_York:20251028T090000
 DTEND;TZID=America/New_York:20251028T100000
@@ -430,8 +431,8 @@ TRIGGER:-P3D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:Goldwater – campus packet final (placeholder)-20251118170000@chloejoy-apps
-DTSTAMP:20250910T181951Z
+UID:Goldwater – campus packet final (placeholder)-20251118170000@apps
+DTSTAMP:20250910T182817Z
 SUMMARY:Goldwater – campus packet final (placeholder)
 DTSTART;TZID=America/New_York:20251118T170000
 DTEND;TZID=America/New_York:20251118T180000
@@ -448,8 +449,8 @@ TRIGGER:-P3D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:Astronaut – confirm Duke campus deadline (placeholder)-20260110090000@chloejoy-apps
-DTSTAMP:20250910T181951Z
+UID:Astronaut – confirm Duke campus deadline (placeholder)-20260110090000@apps
+DTSTAMP:20250910T182817Z
 SUMMARY:Astronaut – confirm Duke campus deadline (placeholder)
 DTSTART;TZID=America/New_York:20260110T090000
 DTEND;TZID=America/New_York:20260110T100000
@@ -469,8 +470,8 @@ TRIGGER:-P3D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:Astronaut – statement & CV ready-20260124180000@chloejoy-apps
-DTSTAMP:20250910T181951Z
+UID:Astronaut – statement & CV ready-20260124180000@apps
+DTSTAMP:20250910T182817Z
 SUMMARY:Astronaut – statement & CV ready
 DTSTART;TZID=America/New_York:20260124T180000
 DTEND;TZID=America/New_York:20260124T190000
@@ -487,135 +488,88 @@ TRIGGER:-P3D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:Medtronic R&D Intern – application deadline-20251013170000@chloejoy-apps
-DTSTAMP:20250910T181951Z
-SUMMARY:Medtronic R&D Intern – application deadline
-DTSTART;TZID=America/New_York:20251013T170000
-DTEND;TZID=America/New_York:20251013T180000
-DESCRIPTION:Apply for Medtronic R&D Engineering Internship (Summer 202
- 6). Confirm details at Medtronic Careers.\nLink: https://medtronic.wd
- 1.myworkdayjobs.com/MedtronicCareers/job/R-D-Engineering-Intern---Sum
- mer-2026_R40521-1
+UID:Duke STAR Program – application deadline-20260102235900@apps
+DTSTAMP:20250910T182817Z
+SUMMARY:Duke STAR Program – application deadline
+DTSTART;TZID=America/New_York:20260102T235900
+DTEND;TZID=America/New_York:20260103T005900
+DESCRIPTION:Applications due Jan 2\, 2026\, 11:59 p.m. ET.\nLink: http
+ s://dcri.org/education/dukes-star-program
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:Reminder: Medtronic R&D Intern – application deadline
+DESCRIPTION:Reminder: Duke STAR Program – application deadline
 TRIGGER:-P14D
 END:VALARM
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:Reminder: Medtronic R&D Intern – application deadline
+DESCRIPTION:Reminder: Duke STAR Program – application deadline
 TRIGGER:-P3D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:Boston Scientific R&D Intern – application deadline (expected)-20260215170000@chloejoy-apps
-DTSTAMP:20250910T181951Z
-SUMMARY:Boston Scientific R&D Intern – application deadline (expected)
+UID:Duke Deans’ Summer Research Fellowship – expected deadline-20260107170000@apps
+DTSTAMP:20250910T182817Z
+SUMMARY:Duke Deans’ Summer Research Fellowship – expected deadline
+DTSTART;TZID=America/New_York:20260107T170000
+DTEND;TZID=America/New_York:20260107T180000
+DESCRIPTION:Based on 2025 timeline. Confirm 2026 deadline on Duke site
+ .\nLink: https://undergraduateresearch.duke.edu/DSRF
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Duke Deans’ Summer Research Fellowship – expecte
+ d deadline
+TRIGGER:-P14D
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Duke Deans’ Summer Research Fellowship – expecte
+ d deadline
+TRIGGER:-P3D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:Duke‑Margolis Summer Experience – expected deadline-20260215170000@apps
+DTSTAMP:20250910T182817Z
+SUMMARY:Duke‑Margolis Summer Experience – expected deadline
 DTSTART;TZID=America/New_York:20260215T170000
 DTEND;TZID=America/New_York:20260215T180000
-DESCRIPTION:Estimated deadline for Boston Scientific R&D Internship\; 
- confirm when posted.\nLink: https://simplify.jobs/p/5a1f103e-4abb-44b
- 4-b18b-8633ed6fb4a5/Research--Development-Engineering-Intern
+DESCRIPTION:Typical posting in winter\; confirm when posted.\nLink: ht
+ tps://healthpolicy.duke.edu/margolis-internship
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:Reminder: Boston Scientific R&D Intern – application deadl
- ine (expected)
+DESCRIPTION:Reminder: Duke‑Margolis Summer Experience – expected deadl
+ ine
 TRIGGER:-P14D
 END:VALARM
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:Reminder: Boston Scientific R&D Intern – application deadl
- ine (expected)
+DESCRIPTION:Reminder: Duke‑Margolis Summer Experience – expected deadl
+ ine
 TRIGGER:-P3D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:Siemens Healthineers – applications open-20250910090000@chloejoy-apps
-DTSTAMP:20250910T181951Z
-SUMMARY:Siemens Healthineers – applications open
-DTSTART;TZID=America/New_York:20250910T090000
-DTEND;TZID=America/New_York:20250910T100000
-DESCRIPTION:Applications for Siemens Healthineers Summer 2026 internsh
- ips open starting Sept 2025. Check site.\nLink: https://www.siemens-h
- ealthineers.com/en-us/careers/students
+UID:Duke TUNL REU – application deadline-20260129170000@apps
+DTSTAMP:20250910T182817Z
+SUMMARY:Duke TUNL REU – application deadline
+DTSTART;TZID=America/New_York:20260129T170000
+DTEND;TZID=America/New_York:20260129T180000
+DESCRIPTION:NSF REU at Duke (nuclear/particle). Stretch option for cro
+ ss-training.\nLink: https://tunl.duke.edu/education/reu/apply
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:Reminder: Siemens Healthineers – applications open
+DESCRIPTION:Reminder: Duke TUNL REU – application deadline
 TRIGGER:-P14D
 END:VALARM
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:Reminder: Siemens Healthineers – applications open
+DESCRIPTION:Reminder: Duke TUNL REU – application deadline
 TRIGGER:-P3D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:Biogen Internships – rolling deadline (apply early)-20260331170000@chloejoy-apps
-DTSTAMP:20250910T181951Z
-SUMMARY:Biogen Internships – rolling deadline (apply early)
-DTSTART;TZID=America/New_York:20260331T170000
-DTEND;TZID=America/New_York:20260331T180000
-DESCRIPTION:Biogen internships fill on rolling basis\; apply ASAP. Exp
- ect closure by late March 2026.\nLink: https://www.biogen.com/careers
- /students-and-graduates.html
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:Reminder: Biogen Internships – rolling deadline (apply ear
- ly)
-TRIGGER:-P14D
-END:VALARM
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:Reminder: Biogen Internships – rolling deadline (apply ear
- ly)
-TRIGGER:-P3D
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-UID:Abbott Internships – monitor and apply-20250915090000@chloejoy-apps
-DTSTAMP:20250910T181951Z
-SUMMARY:Abbott Internships – monitor and apply
-DTSTART;TZID=America/New_York:20250915T090000
-DTEND;TZID=America/New_York:20250915T100000
-DESCRIPTION:Abbott Summer 2026 internships typically open early fall. 
- Monitor site for postings.\nLink: https://www.abbott.com/careers/stud
- ents/internships.html
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:Reminder: Abbott Internships – monitor and apply
-TRIGGER:-P14D
-END:VALARM
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:Reminder: Abbott Internships – monitor and apply
-TRIGGER:-P3D
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-UID:Moderna Clinical Biomarker Intern – monitor postings-20251101090000@chloejoy-apps
-DTSTAMP:20250910T181951Z
-SUMMARY:Moderna Clinical Biomarker Intern – monitor postings
-DTSTART;TZID=America/New_York:20251101T090000
-DTEND;TZID=America/New_York:20251101T100000
-DESCRIPTION:Moderna Summer 2026 internship postings expected fall/wint
- er 2025. Monitor careers site.\nLink: https://www.modernatx.com/en-US
- /careers
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:Reminder: Moderna Clinical Biomarker Intern – monitor post
- ings
-TRIGGER:-P14D
-END:VALARM
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:Reminder: Moderna Clinical Biomarker Intern – monitor post
- ings
-TRIGGER:-P3D
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-UID:OHSU ORION BME Internship – application due (TBA)-20260215170000@chloejoy-apps
-DTSTAMP:20250910T181951Z
+UID:OHSU ORION BME Internship – application due (TBA)-20260215170000@apps
+DTSTAMP:20250910T182817Z
 SUMMARY:OHSU ORION BME Internship – application due (TBA)
 DTSTART;TZID=America/New_York:20260215T170000
 DTEND;TZID=America/New_York:20260215T180000
@@ -637,8 +591,8 @@ TRIGGER:-P3D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:OHSU Biomedical Informatics Internship – applications open (watch site)-20251120090000@chloejoy-apps
-DTSTAMP:20250910T181951Z
+UID:OHSU Biomedical Informatics Internship – applications open (watch site)-20251120090000@apps
+DTSTAMP:20250910T182817Z
 SUMMARY:OHSU Biomedical Informatics Internship – applications open (wa
  tch site)
 DTSTART;TZID=America/New_York:20251120T090000
@@ -661,8 +615,8 @@ TRIGGER:-P3D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:Wake Forest BME/IMPACT REU – expected deadline-20260131170000@chloejoy-apps
-DTSTAMP:20250910T181951Z
+UID:Wake Forest BME/IMPACT REU – expected deadline-20260131170000@apps
+DTSTAMP:20250910T182817Z
 SUMMARY:Wake Forest BME/IMPACT REU – expected deadline
 DTSTART;TZID=America/New_York:20260131T170000
 DTEND;TZID=America/New_York:20260131T180000
@@ -682,101 +636,129 @@ TRIGGER:-P3D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:Duke STAR Program – application deadline-20260102235900@chloejoy-apps
-DTSTAMP:20250910T181951Z
-SUMMARY:Duke STAR Program – application deadline
-DTSTART;TZID=America/New_York:20260102T235900
-DTEND;TZID=America/New_York:20260103T005900
-DESCRIPTION:Applications due Jan 2\, 2026\, 11:59 p.m. ET.\nLink: http
- s://dcri.org/education/dukes-star-program
+UID:Medtronic R&D Intern – application deadline-20251013170000@apps
+DTSTAMP:20250910T182817Z
+SUMMARY:Medtronic R&D Intern – application deadline
+DTSTART;TZID=America/New_York:20251013T170000
+DTEND;TZID=America/New_York:20251013T180000
+DESCRIPTION:Apply for Medtronic R&D Engineering Internship (Summer 202
+ 6). Confirm details at Medtronic Careers.\nLink: https://medtronic.wd
+ 1.myworkdayjobs.com/MedtronicCareers/job/R-D-Engineering-Intern---Sum
+ mer-2026_R40521-1
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:Reminder: Duke STAR Program – application deadline
+DESCRIPTION:Reminder: Medtronic R&D Intern – application deadline
 TRIGGER:-P14D
 END:VALARM
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:Reminder: Duke STAR Program – application deadline
+DESCRIPTION:Reminder: Medtronic R&D Intern – application deadline
 TRIGGER:-P3D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:Duke Deans’ Summer Research Fellowship – expected deadline-20260107170000@chloejoy-apps
-DTSTAMP:20250910T181951Z
-SUMMARY:Duke Deans’ Summer Research Fellowship – expected deadline
-DTSTART;TZID=America/New_York:20260107T170000
-DTEND;TZID=America/New_York:20260107T180000
-DESCRIPTION:Based on 2025 timeline. Confirm 2026 deadline on Duke site
- .\nLink: https://undergraduateresearch.duke.edu/DSRF
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:Reminder: Duke Deans’ Summer Research Fellowship – expecte
- d deadline
-TRIGGER:-P14D
-END:VALARM
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:Reminder: Duke Deans’ Summer Research Fellowship – expecte
- d deadline
-TRIGGER:-P3D
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-UID:Duke‑Margolis Summer Experience – expected deadline-20260215170000@chloejoy-apps
-DTSTAMP:20250910T181951Z
-SUMMARY:Duke‑Margolis Summer Experience – expected deadline
+UID:Boston Scientific R&D Intern – application deadline (expected)-20260215170000@apps
+DTSTAMP:20250910T182817Z
+SUMMARY:Boston Scientific R&D Intern – application deadline (expected)
 DTSTART;TZID=America/New_York:20260215T170000
 DTEND;TZID=America/New_York:20260215T180000
-DESCRIPTION:Typical posting in winter\; confirm when posted.\nLink: ht
- tps://healthpolicy.duke.edu/margolis-internship
+DESCRIPTION:Estimated deadline for Boston Scientific R&D Internship\; 
+ confirm when posted.\nLink: https://simplify.jobs/p/5a1f103e-4abb-44b
+ 4-b18b-8633ed6fb4a5/Research--Development-Engineering-Intern
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:Reminder: Duke‑Margolis Summer Experience – expected deadl
- ine
+DESCRIPTION:Reminder: Boston Scientific R&D Intern – application deadl
+ ine (expected)
 TRIGGER:-P14D
 END:VALARM
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:Reminder: Duke‑Margolis Summer Experience – expected deadl
- ine
+DESCRIPTION:Reminder: Boston Scientific R&D Intern – application deadl
+ ine (expected)
 TRIGGER:-P3D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:Amgen Scholars (US) – national deadline-20260201235900@chloejoy-apps
-DTSTAMP:20250910T181951Z
-SUMMARY:Amgen Scholars (US) – national deadline
-DTSTART;TZID=America/New_York:20260201T235900
-DTEND;TZID=America/New_York:20260202T005900
-DESCRIPTION:US programs open Nov 1\, 2025\; deadline Feb 1\, 2026. Che
- ck host sites for specifics.\nLink: https://amgenscholars.com/
+UID:Siemens Healthineers – applications open-20250910090000@apps
+DTSTAMP:20250910T182817Z
+SUMMARY:Siemens Healthineers – applications open
+DTSTART;TZID=America/New_York:20250910T090000
+DTEND;TZID=America/New_York:20250910T100000
+DESCRIPTION:Applications for Siemens Healthineers Summer 2026 internsh
+ ips open starting Sept 2025. Check site.\nLink: https://www.siemens-h
+ ealthineers.com/en-us/careers/students
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:Reminder: Amgen Scholars (US) – national deadline
+DESCRIPTION:Reminder: Siemens Healthineers – applications open
 TRIGGER:-P14D
 END:VALARM
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:Reminder: Amgen Scholars (US) – national deadline
+DESCRIPTION:Reminder: Siemens Healthineers – applications open
 TRIGGER:-P3D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:Duke TUNL REU – application deadline-20260129170000@chloejoy-apps
-DTSTAMP:20250910T181951Z
-SUMMARY:Duke TUNL REU – application deadline
-DTSTART;TZID=America/New_York:20260129T170000
-DTEND;TZID=America/New_York:20260129T180000
-DESCRIPTION:NSF REU at Duke (nuclear/particle). Stretch option for cro
- ss-training.\nLink: https://tunl.duke.edu/education/reu/apply
+UID:Biogen Internships – rolling deadline (apply early)-20260331170000@apps
+DTSTAMP:20250910T182817Z
+SUMMARY:Biogen Internships – rolling deadline (apply early)
+DTSTART;TZID=America/New_York:20260331T170000
+DTEND;TZID=America/New_York:20260331T180000
+DESCRIPTION:Biogen internships fill on rolling basis\; apply ASAP. Exp
+ ect closure by late March 2026.\nLink: https://www.biogen.com/careers
+ /students-and-graduates.html
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:Reminder: Duke TUNL REU – application deadline
+DESCRIPTION:Reminder: Biogen Internships – rolling deadline (apply ear
+ ly)
 TRIGGER:-P14D
 END:VALARM
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:Reminder: Duke TUNL REU – application deadline
+DESCRIPTION:Reminder: Biogen Internships – rolling deadline (apply ear
+ ly)
+TRIGGER:-P3D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:Abbott Internships – monitor and apply-20250915090000@apps
+DTSTAMP:20250910T182817Z
+SUMMARY:Abbott Internships – monitor and apply
+DTSTART;TZID=America/New_York:20250915T090000
+DTEND;TZID=America/New_York:20250915T100000
+DESCRIPTION:Abbott Summer 2026 internships typically open early fall. 
+ Monitor site for postings.\nLink: https://www.abbott.com/careers/stud
+ ents/internships.html
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Abbott Internships – monitor and apply
+TRIGGER:-P14D
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Abbott Internships – monitor and apply
+TRIGGER:-P3D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:Moderna Clinical Biomarker Intern – monitor postings-20251101090000@apps
+DTSTAMP:20250910T182817Z
+SUMMARY:Moderna Clinical Biomarker Intern – monitor postings
+DTSTART;TZID=America/New_York:20251101T090000
+DTEND;TZID=America/New_York:20251101T100000
+DESCRIPTION:Moderna Summer 2026 internship postings expected fall/wint
+ er 2025. Monitor careers site.\nLink: https://www.modernatx.com/en-US
+ /careers
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Moderna Clinical Biomarker Intern – monitor post
+ ings
+TRIGGER:-P14D
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Moderna Clinical Biomarker Intern – monitor post
+ ings
 TRIGGER:-P3D
 END:VALARM
 END:VEVENT
