@@ -1,0 +1,974 @@
+BEGIN:VCALENDAR
+PRODID:-//Premed Neuro Application Calendar//chloejoy//
+VERSION:2.0
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Premed Neuro Apps + MCAT 2025–26
+X-WR-TIMEZONE:America/New_York
+BEGIN:VEVENT
+UID:Goldwater Scholarship application opens-20250902090000@chloejoy-neuroapps
+DTSTAMP:20250910T173140Z
+SUMMARY:Goldwater Scholarship application opens
+DTSTART;TZID=America/New_York:20250902T090000
+DTEND;TZID=America/New_York:20250902T100000
+DESCRIPTION:Goldwater online app opens. Campus nomination required\; s
+ et your campus deadline with your fellowships office.\nLink: https://
+ goldwaterscholarship.gov/important-dates/
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Goldwater Scholarship application opens
+TRIGGER:-P14D
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Goldwater Scholarship application opens
+TRIGGER:-P3D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:Goldwater nomination deadline (national)-20260130180000@chloejoy-neuroapps
+DTSTAMP:20250910T173140Z
+SUMMARY:Goldwater nomination deadline (national)
+DTSTART;TZID=America/New_York:20260130T180000
+DTEND;TZID=America/New_York:20260130T190000
+DESCRIPTION:Institution nominations due to Foundation by 5:00 p.m. CT 
+ (6:00 p.m. ET). Confirm your campus deadline (often Nov).\nLink: http
+ s://goldwaterscholarship.gov/
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Goldwater nomination deadline (national)
+TRIGGER:-P14D
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Goldwater nomination deadline (national)
+TRIGGER:-P3D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:UCSF SRTP applications open-20251101030100@chloejoy-neuroapps
+DTSTAMP:20250910T173140Z
+SUMMARY:UCSF SRTP applications open
+DTSTART;TZID=America/New_York:20251101T030100
+DTEND;TZID=America/New_York:20251101T040100
+DESCRIPTION:Applications open (12:01 a.m. PST).\nLink: https://graduat
+ e.ucsf.edu/academics/srtp
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: UCSF SRTP applications open
+TRIGGER:-P14D
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: UCSF SRTP applications open
+TRIGGER:-P3D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:UCSF SRTP application deadline-20260202235800@chloejoy-neuroapps
+DTSTAMP:20250910T173140Z
+SUMMARY:UCSF SRTP application deadline
+DTSTART;TZID=America/New_York:20260202T235800
+DTEND;TZID=America/New_York:20260203T005800
+DESCRIPTION:Deadline is 11:58 p.m. PST (2:58 a.m. ET on 2/3). Submit e
+ arlier to be safe.\nLink: https://graduate.ucsf.edu/academics/srtp/sr
+ tp-faq
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: UCSF SRTP application deadline
+TRIGGER:-P14D
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: UCSF SRTP application deadline
+TRIGGER:-P3D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:Stanford SSRP–Amgen application deadline (expected)-20260201235900@chloejoy-neuroapps
+DTSTAMP:20250910T173140Z
+SUMMARY:Stanford SSRP–Amgen application deadline (expected)
+DTSTART;TZID=America/New_York:20260201T235900
+DTEND;TZID=America/New_York:20260202T005900
+DESCRIPTION:Based on prior cycle\; confirm exact 2026 deadline on Stan
+ ford site when posted.\nLink: https://biosciences.stanford.edu/pathwa
+ ys/ssrp-amgen-scholars-program/
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Stanford SSRP–Amgen application deadline (expect
+ ed)
+TRIGGER:-P14D
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Stanford SSRP–Amgen application deadline (expect
+ ed)
+TRIGGER:-P3D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:Broad BSRP application deadline (anticipated)-20260110180000@chloejoy-neuroapps
+DTSTAMP:20250910T173140Z
+SUMMARY:Broad BSRP application deadline (anticipated)
+DTSTART;TZID=America/New_York:20260110T180000
+DTEND;TZID=America/New_York:20260110T190000
+DESCRIPTION:Anticipated based on prior cycles\; confirm on Broad site 
+ when posted.\nLink: https://www.broadinstitute.org/bsrp/broad-summer-
+ research-program-bsrp
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Broad BSRP application deadline (anticipated)
+TRIGGER:-P14D
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Broad BSRP application deadline (anticipated)
+TRIGGER:-P3D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:HHMI Janelia J‑SURP application deadline (expected)-20260114150000@chloejoy-neuroapps
+DTSTAMP:20250910T173140Z
+SUMMARY:HHMI Janelia J‑SURP application deadline (expected)
+DTSTART;TZID=America/New_York:20260114T150000
+DTEND;TZID=America/New_York:20260114T160000
+DESCRIPTION:Expected based on 2025 cycle\; confirm 2026 posting on Jan
+ elia site.\nLink: https://www.janelia.org/you-janelia/students-and-po
+ stdocs/janelia-summer-undergraduate-research-program/application-deta
+ ils
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: HHMI Janelia J‑SURP application deadline (expect
+ ed)
+TRIGGER:-P14D
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: HHMI Janelia J‑SURP application deadline (expect
+ ed)
+TRIGGER:-P3D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:CSHL URP applications open-20250915090000@chloejoy-neuroapps
+DTSTAMP:20250910T173140Z
+SUMMARY:CSHL URP applications open
+DTSTART;TZID=America/New_York:20250915T090000
+DTEND;TZID=America/New_York:20250915T100000
+DESCRIPTION:Cold Spring Harbor URP 2026 applications open in September
+  (per program page).\nLink: https://www.cshl.edu/education/undergradu
+ ate-research-program/
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: CSHL URP applications open
+TRIGGER:-P14D
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: CSHL URP applications open
+TRIGGER:-P3D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:CSHL URP application deadline (anticipated)-20260115180000@chloejoy-neuroapps
+DTSTAMP:20250910T173140Z
+SUMMARY:CSHL URP application deadline (anticipated)
+DTSTART;TZID=America/New_York:20260115T180000
+DTEND;TZID=America/New_York:20260115T190000
+DESCRIPTION:Typical deadline is mid‑January\; confirm on CSHL site onc
+ e posted.\nLink: https://www.cshl.edu/education/undergraduate-researc
+ h-program/
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: CSHL URP application deadline (anticipated)
+TRIGGER:-P14D
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: CSHL URP application deadline (anticipated)
+TRIGGER:-P3D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:Mayo Clinic SURF application deadline-20260202170000@chloejoy-neuroapps
+DTSTAMP:20250910T173140Z
+SUMMARY:Mayo Clinic SURF application deadline
+DTSTART;TZID=America/New_York:20260202T170000
+DTEND;TZID=America/New_York:20260202T180000
+DESCRIPTION:All materials due\; window Nov 1\, 2025 – Feb 2\, 2026. (P
+ rogram runs May 26 – Jul 31\, 2026.)\nLink: https://college.mayo.edu/
+ academics/biomedical-research-training/summer-undergraduate-research-
+ fellowship-surf/application-process/
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Mayo Clinic SURF application deadline
+TRIGGER:-P14D
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Mayo Clinic SURF application deadline
+TRIGGER:-P3D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:DOE SULI Summer 2026 application deadline-20260107170000@chloejoy-neuroapps
+DTSTAMP:20250910T173140Z
+SUMMARY:DOE SULI Summer 2026 application deadline
+DTSTART;TZID=America/New_York:20260107T170000
+DTEND;TZID=America/New_York:20260107T180000
+DESCRIPTION:Applications due 5:00 p.m. ET.\nLink: https://science.osti
+ .gov/wdts/suli/Key-Dates
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: DOE SULI Summer 2026 application deadline
+TRIGGER:-P14D
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: DOE SULI Summer 2026 application deadline
+TRIGGER:-P3D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:Children’s Brain Tumor Project SURF application window closes-20260215170000@chloejoy-neuroapps
+DTSTAMP:20250910T173140Z
+SUMMARY:Children’s Brain Tumor Project SURF application window closes
+DTSTART;TZID=America/New_York:20260215T170000
+DTEND;TZID=America/New_York:20260215T180000
+DESCRIPTION:Applications accepted Nov 1\, 2025 – Feb 15\, 2026.\nLink:
+  https://www.childrensbraintumorproject.org/summerinternship/
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Children’s Brain Tumor Project SURF application 
+ window closes
+TRIGGER:-P14D
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Children’s Brain Tumor Project SURF application 
+ window closes
+TRIGGER:-P3D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:UW Neuroscience Summer Student Program (apply by)-20251214235900@chloejoy-neuroapps
+DTSTAMP:20250910T173140Z
+SUMMARY:UW Neuroscience Summer Student Program (apply by)
+DTSTART;TZID=America/New_York:20251214T235900
+DTEND;TZID=America/New_York:20251215T005900
+DESCRIPTION:Application period Oct 31 – Dec 14\, 2025 for Summer 2026 
+ cohort.\nLink: https://neurosurgery.uw.edu/education/summer-student-p
+ rograms/nsssp-how-to-apply
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: UW Neuroscience Summer Student Program (apply by
+ )
+TRIGGER:-P14D
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: UW Neuroscience Summer Student Program (apply by
+ )
+TRIGGER:-P3D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:MGH Youth Neurology undergrad internship deadline (expected)-20260131235900@chloejoy-neuroapps
+DTSTAMP:20250910T173140Z
+SUMMARY:MGH Youth Neurology undergrad internship deadline (expected)
+DTSTART;TZID=America/New_York:20260131T235900
+DTEND;TZID=America/New_York:20260201T005900
+DESCRIPTION:Based on 2025 timeline\; confirm 2026 posting in Nov 2025.
+ \nLink: https://www.massgeneral.org/neurology/education-and-training/
+ youth-research-and-education
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: MGH Youth Neurology undergrad internship deadlin
+ e (expected)
+TRIGGER:-P14D
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: MGH Youth Neurology undergrad internship deadlin
+ e (expected)
+TRIGGER:-P3D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:NYU Pediatric Neurosurgery Observership deadline (expected)-20260301170000@chloejoy-neuroapps
+DTSTAMP:20250910T173140Z
+SUMMARY:NYU Pediatric Neurosurgery Observership deadline (expected)
+DTSTART;TZID=America/New_York:20260301T170000
+DTEND;TZID=America/New_York:20260301T180000
+DESCRIPTION:Based on prior cycle\; confirm 2026 dates on NYU site.\nLi
+ nk: https://med.nyu.edu/departments-institutes/neurosurgery/education
+ /summer-observership-undergraduates
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: NYU Pediatric Neurosurgery Observership deadline
+  (expected)
+TRIGGER:-P14D
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: NYU Pediatric Neurosurgery Observership deadline
+  (expected)
+TRIGGER:-P3D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:NIH SIP application opens (est.)-20251115090000@chloejoy-neuroapps
+DTSTAMP:20250910T173140Z
+SUMMARY:NIH SIP application opens (est.)
+DTSTART;TZID=America/New_York:20251115T090000
+DTEND;TZID=America/New_York:20251115T100000
+DESCRIPTION:NIH SIP typically opens mid‑November. Apply early\; select
+ ion rolling.\nLink: https://www.training.nih.gov/research-training/pb
+ /sip/
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: NIH SIP application opens (est.)
+TRIGGER:-P14D
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: NIH SIP application opens (est.)
+TRIGGER:-P3D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:NIH SIP application deadline (est.)-20260216180000@chloejoy-neuroapps
+DTSTAMP:20250910T173140Z
+SUMMARY:NIH SIP application deadline (est.)
+DTSTART;TZID=America/New_York:20260216T180000
+DTEND;TZID=America/New_York:20260216T190000
+DESCRIPTION:Typical close mid‑Feb\; some pages list Feb 16–19. Apply w
+ ell before this date.\nLink: https://www.cancer.gov/grants-training/t
+ raining/at-nci/sip
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: NIH SIP application deadline (est.)
+TRIGGER:-P14D
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: NIH SIP application deadline (est.)
+TRIGGER:-P3D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:Astronaut Scholarship (confirm campus nomination deadline)-20260115090000@chloejoy-neuroapps
+DTSTAMP:20250910T173140Z
+SUMMARY:Astronaut Scholarship (confirm campus nomination deadline)
+DTSTART;TZID=America/New_York:20260115T090000
+DTEND;TZID=America/New_York:20260115T100000
+DESCRIPTION:Campus nominations are due to ASF by late March nationally
+ \; most campuses set Jan–Mar internal deadlines. Contact Duke’s fello
+ wships office.\nLink: https://www.astronautscholarship.org/programs/a
+ stronaut-scholarship/
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Astronaut Scholarship (confirm campus nomination
+  deadline)
+TRIGGER:-P14D
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Astronaut Scholarship (confirm campus nomination
+  deadline)
+TRIGGER:-P3D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:Goldwater – confirm Duke campus deadline (placeholder)-20251020090000@chloejoy-neuroapps
+DTSTAMP:20250910T173140Z
+SUMMARY:Goldwater – confirm Duke campus deadline (placeholder)
+DTSTART;TZID=America/New_York:20251020T090000
+DTEND;TZID=America/New_York:20251020T100000
+DESCRIPTION:Email Duke Fellowships Office to confirm internal nominati
+ on deadline and campus process (essays\, recs). Replace date once con
+ firmed.
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Goldwater – confirm Duke campus deadline (placeh
+ older)
+TRIGGER:-P14D
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Goldwater – confirm Duke campus deadline (placeh
+ older)
+TRIGGER:-P3D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:Goldwater – personal statement first draft due (you)-20251027180000@chloejoy-neuroapps
+DTSTAMP:20250910T173140Z
+SUMMARY:Goldwater – personal statement first draft due (you)
+DTSTART;TZID=America/New_York:20251027T180000
+DTEND;TZID=America/New_York:20251027T190000
+DESCRIPTION:Goal: 1st full draft to campus mentor\; include research m
+ otivation\, contributions\, and career goals.
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Goldwater – personal statement first draft due (
+ you)
+TRIGGER:-P14D
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Goldwater – personal statement first draft due (
+ you)
+TRIGGER:-P3D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:Goldwater – referee requests sent-20251028090000@chloejoy-neuroapps
+DTSTAMP:20250910T173140Z
+SUMMARY:Goldwater – referee requests sent
+DTSTART;TZID=America/New_York:20251028T090000
+DTEND;TZID=America/New_York:20251028T100000
+DESCRIPTION:Send formal requests to 3–4 research mentors\; include CV 
+ + draft statement + bullets of what you’d like highlighted.
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Goldwater – referee requests sent
+TRIGGER:-P14D
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Goldwater – referee requests sent
+TRIGGER:-P3D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:Goldwater – campus packet final (placeholder)-20251118170000@chloejoy-neuroapps
+DTSTAMP:20250910T173140Z
+SUMMARY:Goldwater – campus packet final (placeholder)
+DTSTART;TZID=America/New_York:20251118T170000
+DTEND;TZID=America/New_York:20251118T180000
+DESCRIPTION:Target campus submission. Adjust to actual Duke deadline o
+ nce posted.
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Goldwater – campus packet final (placeholder)
+TRIGGER:-P14D
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Goldwater – campus packet final (placeholder)
+TRIGGER:-P3D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:Astronaut Scholarship – confirm Duke campus deadline (placeholder)-20260110090000@chloejoy-neuroapps
+DTSTAMP:20250910T173140Z
+SUMMARY:Astronaut Scholarship – confirm Duke campus deadline (placehol
+ der)
+DTSTART;TZID=America/New_York:20260110T090000
+DTEND;TZID=America/New_York:20260110T100000
+DESCRIPTION:Check Duke’s internal timeline\; nominate via campus proce
+ ss.
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Astronaut Scholarship – confirm Duke campus dead
+ line (placeholder)
+TRIGGER:-P14D
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Astronaut Scholarship – confirm Duke campus dead
+ line (placeholder)
+TRIGGER:-P3D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:Astronaut Scholarship – statement & CV ready-20260124180000@chloejoy-neuroapps
+DTSTAMP:20250910T173140Z
+SUMMARY:Astronaut Scholarship – statement & CV ready
+DTSTART;TZID=America/New_York:20260124T180000
+DTEND;TZID=America/New_York:20260124T190000
+DESCRIPTION:Finalize materials and confirm referees.
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Astronaut Scholarship – statement & CV ready
+TRIGGER:-P14D
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Astronaut Scholarship – statement & CV ready
+TRIGGER:-P3D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:MCAT Study – Content Review (Fall)-20251007190000@chloejoy-neuroapps
+DTSTAMP:20250910T173140Z
+SUMMARY:MCAT Study – Content Review (Fall)
+DTSTART;TZID=America/New_York:20251007T190000
+DTEND;TZID=America/New_York:20251007T210000
+DESCRIPTION:Focus: Chem/Phys + Bio/Biochem foundations\; Anki daily (3
+ 0–45min)\; 2h blocks Tue/Thu.
+RRULE:FREQ=WEEKLY;BYDAY=TU,TH;UNTIL=20251215T235900Z
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: MCAT Study – Content Review (Fall)
+TRIGGER:-P14D
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: MCAT Study – Content Review (Fall)
+TRIGGER:-P3D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:MCAT Study – Saturday Set (Fall)-20251011100000@chloejoy-neuroapps
+DTSTAMP:20250910T173140Z
+SUMMARY:MCAT Study – Saturday Set (Fall)
+DTSTART;TZID=America/New_York:20251011T100000
+DTEND;TZID=America/New_York:20251011T130000
+DESCRIPTION:3h: passage practice + review\; rotate CARS strategy drill
+ s.
+RRULE:FREQ=WEEKLY;BYDAY=SA;UNTIL=20251220T235900Z
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: MCAT Study – Saturday Set (Fall)
+TRIGGER:-P14D
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: MCAT Study – Saturday Set (Fall)
+TRIGGER:-P3D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:MCAT Study – Passage Practice (Spring)-20260112190000@chloejoy-neuroapps
+DTSTAMP:20250910T173140Z
+SUMMARY:MCAT Study – Passage Practice (Spring)
+DTSTART;TZID=America/New_York:20260112T190000
+DTEND;TZID=America/New_York:20260112T210000
+DESCRIPTION:2h blocks: AAMC QPacks/Section Bank rotations\; error log 
+ maintenance.
+RRULE:FREQ=WEEKLY;BYDAY=MO,WE;UNTIL=20260515T235900Z
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: MCAT Study – Passage Practice (Spring)
+TRIGGER:-P14D
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: MCAT Study – Passage Practice (Spring)
+TRIGGER:-P3D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:MCAT Study – Saturday Set (Spring)-20260117100000@chloejoy-neuroapps
+DTSTAMP:20250910T173140Z
+SUMMARY:MCAT Study – Saturday Set (Spring)
+DTSTART;TZID=America/New_York:20260117T100000
+DTEND;TZID=America/New_York:20260117T130000
+DESCRIPTION:3h: timed sets\; review frameworks\; ramp difficulty.
+RRULE:FREQ=WEEKLY;BYDAY=SA;UNTIL=20260518T235900Z
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: MCAT Study – Saturday Set (Spring)
+TRIGGER:-P14D
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: MCAT Study – Saturday Set (Spring)
+TRIGGER:-P3D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:MCAT Full-Length (biweekly)-20260201090000@chloejoy-neuroapps
+DTSTAMP:20250910T173140Z
+SUMMARY:MCAT Full-Length (biweekly)
+DTSTART;TZID=America/New_York:20260201T090000
+DTEND;TZID=America/New_York:20260201T170000
+DESCRIPTION:Take under strict timing\; same breakfast\, start time\, a
+ nd setup as test day. Review over next 48h.
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: MCAT Full-Length (biweekly)
+TRIGGER:-P14D
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: MCAT Full-Length (biweekly)
+TRIGGER:-P3D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:MCAT Full-Length (biweekly)-20260215090000@chloejoy-neuroapps
+DTSTAMP:20250910T173140Z
+SUMMARY:MCAT Full-Length (biweekly)
+DTSTART;TZID=America/New_York:20260215T090000
+DTEND;TZID=America/New_York:20260215T170000
+DESCRIPTION:Take under strict timing\; same breakfast\, start time\, a
+ nd setup as test day. Review over next 48h.
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: MCAT Full-Length (biweekly)
+TRIGGER:-P14D
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: MCAT Full-Length (biweekly)
+TRIGGER:-P3D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:MCAT Full-Length (biweekly)-20260301090000@chloejoy-neuroapps
+DTSTAMP:20250910T173140Z
+SUMMARY:MCAT Full-Length (biweekly)
+DTSTART;TZID=America/New_York:20260301T090000
+DTEND;TZID=America/New_York:20260301T170000
+DESCRIPTION:Take under strict timing\; same breakfast\, start time\, a
+ nd setup as test day. Review over next 48h.
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: MCAT Full-Length (biweekly)
+TRIGGER:-P14D
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: MCAT Full-Length (biweekly)
+TRIGGER:-P3D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:MCAT Full-Length (biweekly)-20260315090000@chloejoy-neuroapps
+DTSTAMP:20250910T173140Z
+SUMMARY:MCAT Full-Length (biweekly)
+DTSTART;TZID=America/New_York:20260315T090000
+DTEND;TZID=America/New_York:20260315T170000
+DESCRIPTION:Take under strict timing\; same breakfast\, start time\, a
+ nd setup as test day. Review over next 48h.
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: MCAT Full-Length (biweekly)
+TRIGGER:-P14D
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: MCAT Full-Length (biweekly)
+TRIGGER:-P3D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:MCAT Full-Length (biweekly)-20260329090000@chloejoy-neuroapps
+DTSTAMP:20250910T173140Z
+SUMMARY:MCAT Full-Length (biweekly)
+DTSTART;TZID=America/New_York:20260329T090000
+DTEND;TZID=America/New_York:20260329T170000
+DESCRIPTION:Take under strict timing\; same breakfast\, start time\, a
+ nd setup as test day. Review over next 48h.
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: MCAT Full-Length (biweekly)
+TRIGGER:-P14D
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: MCAT Full-Length (biweekly)
+TRIGGER:-P3D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:MCAT Full-Length (biweekly)-20260412090000@chloejoy-neuroapps
+DTSTAMP:20250910T173140Z
+SUMMARY:MCAT Full-Length (biweekly)
+DTSTART;TZID=America/New_York:20260412T090000
+DTEND;TZID=America/New_York:20260412T170000
+DESCRIPTION:Take under strict timing\; same breakfast\, start time\, a
+ nd setup as test day. Review over next 48h.
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: MCAT Full-Length (biweekly)
+TRIGGER:-P14D
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: MCAT Full-Length (biweekly)
+TRIGGER:-P3D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:MCAT Full-Length (biweekly)-20260426090000@chloejoy-neuroapps
+DTSTAMP:20250910T173140Z
+SUMMARY:MCAT Full-Length (biweekly)
+DTSTART;TZID=America/New_York:20260426T090000
+DTEND;TZID=America/New_York:20260426T170000
+DESCRIPTION:Take under strict timing\; same breakfast\, start time\, a
+ nd setup as test day. Review over next 48h.
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: MCAT Full-Length (biweekly)
+TRIGGER:-P14D
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: MCAT Full-Length (biweekly)
+TRIGGER:-P3D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:MCAT Full-Length (biweekly)-20260510090000@chloejoy-neuroapps
+DTSTAMP:20250910T173140Z
+SUMMARY:MCAT Full-Length (biweekly)
+DTSTART;TZID=America/New_York:20260510T090000
+DTEND;TZID=America/New_York:20260510T170000
+DESCRIPTION:Take under strict timing\; same breakfast\, start time\, a
+ nd setup as test day. Review over next 48h.
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: MCAT Full-Length (biweekly)
+TRIGGER:-P14D
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: MCAT Full-Length (biweekly)
+TRIGGER:-P3D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:MCAT Summer Block – AM (Content Polish)-20260601090000@chloejoy-neuroapps
+DTSTAMP:20250910T173140Z
+SUMMARY:MCAT Summer Block – AM (Content Polish)
+DTSTART;TZID=America/New_York:20260601T090000
+DTEND;TZID=America/New_York:20260601T120000
+DESCRIPTION:3h daily: weakest areas\; spaced repetition\; targeted pas
+ sage sets.
+RRULE:FREQ=WEEKLY;BYDAY=MO,TU,WE,TH,FR;UNTIL=20260821T235900Z
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: MCAT Summer Block – AM (Content Polish)
+TRIGGER:-P14D
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: MCAT Summer Block – AM (Content Polish)
+TRIGGER:-P3D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:MCAT Summer Block – PM (Review/Anki/Error Log)-20260601130000@chloejoy-neuroapps
+DTSTAMP:20250910T173140Z
+SUMMARY:MCAT Summer Block – PM (Review/Anki/Error Log)
+DTSTART;TZID=America/New_York:20260601T130000
+DTEND;TZID=America/New_York:20260601T150000
+DESCRIPTION:2h daily: error log close-out\, Anki\, notebook consolidat
+ ion.
+RRULE:FREQ=WEEKLY;BYDAY=MO,TU,WE,TH,FR;UNTIL=20260821T235900Z
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: MCAT Summer Block – PM (Review/Anki/Error Log)
+TRIGGER:-P14D
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: MCAT Summer Block – PM (Review/Anki/Error Log)
+TRIGGER:-P3D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:MCAT Full-Length (weekly)-20260607090000@chloejoy-neuroapps
+DTSTAMP:20250910T173140Z
+SUMMARY:MCAT Full-Length (weekly)
+DTSTART;TZID=America/New_York:20260607T090000
+DTEND;TZID=America/New_York:20260607T170000
+DESCRIPTION:Simulate test day\; detailed review Mon–Tue.
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: MCAT Full-Length (weekly)
+TRIGGER:-P14D
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: MCAT Full-Length (weekly)
+TRIGGER:-P3D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:MCAT Full-Length (weekly)-20260614090000@chloejoy-neuroapps
+DTSTAMP:20250910T173140Z
+SUMMARY:MCAT Full-Length (weekly)
+DTSTART;TZID=America/New_York:20260614T090000
+DTEND;TZID=America/New_York:20260614T170000
+DESCRIPTION:Simulate test day\; detailed review Mon–Tue.
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: MCAT Full-Length (weekly)
+TRIGGER:-P14D
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: MCAT Full-Length (weekly)
+TRIGGER:-P3D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:MCAT Full-Length (weekly)-20260621090000@chloejoy-neuroapps
+DTSTAMP:20250910T173140Z
+SUMMARY:MCAT Full-Length (weekly)
+DTSTART;TZID=America/New_York:20260621T090000
+DTEND;TZID=America/New_York:20260621T170000
+DESCRIPTION:Simulate test day\; detailed review Mon–Tue.
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: MCAT Full-Length (weekly)
+TRIGGER:-P14D
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: MCAT Full-Length (weekly)
+TRIGGER:-P3D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:MCAT Full-Length (weekly)-20260628090000@chloejoy-neuroapps
+DTSTAMP:20250910T173140Z
+SUMMARY:MCAT Full-Length (weekly)
+DTSTART;TZID=America/New_York:20260628T090000
+DTEND;TZID=America/New_York:20260628T170000
+DESCRIPTION:Simulate test day\; detailed review Mon–Tue.
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: MCAT Full-Length (weekly)
+TRIGGER:-P14D
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: MCAT Full-Length (weekly)
+TRIGGER:-P3D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:MCAT Full-Length (weekly)-20260705090000@chloejoy-neuroapps
+DTSTAMP:20250910T173140Z
+SUMMARY:MCAT Full-Length (weekly)
+DTSTART;TZID=America/New_York:20260705T090000
+DTEND;TZID=America/New_York:20260705T170000
+DESCRIPTION:Simulate test day\; detailed review Mon–Tue.
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: MCAT Full-Length (weekly)
+TRIGGER:-P14D
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: MCAT Full-Length (weekly)
+TRIGGER:-P3D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:MCAT Full-Length (weekly)-20260712090000@chloejoy-neuroapps
+DTSTAMP:20250910T173140Z
+SUMMARY:MCAT Full-Length (weekly)
+DTSTART;TZID=America/New_York:20260712T090000
+DTEND;TZID=America/New_York:20260712T170000
+DESCRIPTION:Simulate test day\; detailed review Mon–Tue.
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: MCAT Full-Length (weekly)
+TRIGGER:-P14D
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: MCAT Full-Length (weekly)
+TRIGGER:-P3D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:MCAT Full-Length (weekly)-20260719090000@chloejoy-neuroapps
+DTSTAMP:20250910T173140Z
+SUMMARY:MCAT Full-Length (weekly)
+DTSTART;TZID=America/New_York:20260719T090000
+DTEND;TZID=America/New_York:20260719T170000
+DESCRIPTION:Simulate test day\; detailed review Mon–Tue.
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: MCAT Full-Length (weekly)
+TRIGGER:-P14D
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: MCAT Full-Length (weekly)
+TRIGGER:-P3D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:MCAT Full-Length (weekly)-20260726090000@chloejoy-neuroapps
+DTSTAMP:20250910T173140Z
+SUMMARY:MCAT Full-Length (weekly)
+DTSTART;TZID=America/New_York:20260726T090000
+DTEND;TZID=America/New_York:20260726T170000
+DESCRIPTION:Simulate test day\; detailed review Mon–Tue.
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: MCAT Full-Length (weekly)
+TRIGGER:-P14D
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: MCAT Full-Length (weekly)
+TRIGGER:-P3D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:MCAT Full-Length (weekly)-20260802090000@chloejoy-neuroapps
+DTSTAMP:20250910T173140Z
+SUMMARY:MCAT Full-Length (weekly)
+DTSTART;TZID=America/New_York:20260802T090000
+DTEND;TZID=America/New_York:20260802T170000
+DESCRIPTION:Simulate test day\; detailed review Mon–Tue.
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: MCAT Full-Length (weekly)
+TRIGGER:-P14D
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: MCAT Full-Length (weekly)
+TRIGGER:-P3D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:MCAT Taper – Half-Length Diagnostic-20260809090000@chloejoy-neuroapps
+DTSTAMP:20250910T173140Z
+SUMMARY:MCAT Taper – Half-Length Diagnostic
+DTSTART;TZID=America/New_York:20260809T090000
+DTEND;TZID=America/New_York:20260809T130000
+DESCRIPTION:Half-length diagnostic\; focus on stamina and calm. Review
+  only.
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: MCAT Taper – Half-Length Diagnostic
+TRIGGER:-P14D
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: MCAT Taper – Half-Length Diagnostic
+TRIGGER:-P3D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:MCAT Test Day (target)-20260823080000@chloejoy-neuroapps
+DTSTAMP:20250910T173140Z
+SUMMARY:MCAT Test Day (target)
+DTSTART;TZID=America/New_York:20260823T080000
+DTEND;TZID=America/New_York:20260823T160000
+DESCRIPTION:Target window for end-of-junior-summer MCAT. Adjust once y
+ ou book official date.
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: MCAT Test Day (target)
+TRIGGER:-P14D
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: MCAT Test Day (target)
+TRIGGER:-P3D
+END:VALARM
+END:VEVENT
+END:VCALENDAR
